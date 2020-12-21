@@ -143,3 +143,11 @@
 // } else {
 //   console.log("Grab you umbrella with you!");
 // }
+
+const raining = true;
+
+if (raining) {
+  console.log("Leave your umbrella at home!");
+} else {
+  console.log("Grab you umbrella with you!");
+}
